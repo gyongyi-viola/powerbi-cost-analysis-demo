@@ -25,7 +25,7 @@ All data is simulated for demonstration purposes only.
 
 ## 🧭 How to Use
 - Open the `.pbix` file in Power BI Desktop (free)
-- Explore product-level KPIs, margin analysis, YoY trends, and share of profit
+- Explore product-level KPIs & further analyses
 
 ---
 
