@@ -5,7 +5,8 @@ All data is simulated for demonstration purposes only.
 
 ## 📊 Contents
 - **powerbi-cost-analysis-demo.pbix** – Interactive Power BI report
-- **powerbi-cost-analysis-demo-source.xlsx** – Source data (2024–2025 volume, revenue, cost, margin)
+- **powerbi-cost-analysis-demo-source.xlsx** – Source data simulation (fake data), 2024–2025)
+- **powerbi-cost-analysis-demo-source.pdf** – PDF extract of the PBI report
 
 ## 🔍 Summary of Insights
 ### Product A
